@@ -1,0 +1,23 @@
+{
+  "name": "strCompress.js",
+  "version": "1.0.0",
+  "description": "compress/decompress string character using dflate-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castling/strCompress.js.git"
+  },
+  "keywords": [],
+  "author": "Takeshi Sugimura <unvodka@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/castling/strCompress.js/issues"
+  },
+  "homepage": "https://github.com/castling/strCompress.js#readme",
+  "dependencies": {
+    "deflate-js": "^0.2.3"
+  }
+}
