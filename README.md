@@ -1,2 +1,2 @@
 # strCompress.js
-compress/decompress string character using dflate-js
+deflate-jsを用いた文字列圧縮/解凍用のJSライブラリ
